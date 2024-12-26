@@ -1,0 +1,21 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Resume </title>
+</head>
+<body>
+   <h1>My name is omar </h1> 
+   <img src="./Snapchat-1308487596.jpg" width="120"/>
+   <h2>summary: </h2> iam a web devolper and ENG in communication 
+   <h2>Education: </h2> in fouth year in Enginnering
+   <h2>Work space: </h2> i work in talabt company
+   <h2>Skill: </h2> fast typing - update learner 
+   <hr>
+   <a href="./contact me .html">contact me</a>
+   <hr>
+   <a href="./about me .html">about me </a>
+
+</body>
+</html>
